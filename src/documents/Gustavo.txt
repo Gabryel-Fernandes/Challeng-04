@@ -1,0 +1,11 @@
+Oi Gustavo, tudo joia? to deixando esse txt para explicar alguns coisas que não entendi,
+eu fiz a quest de Duas formas pq n sabia ao certo como seria melhor forma e não entendi
+bem o enunciado, então na primera forma eu fiz um componente paragraph passando ele como
+childrem para Card e renderizando mas achei que esta adicionano mais passos do que o necessario
+pedido na quest e outra forma foi so renderizando paragraph direto no app não sei qual seria a melhor
+forma. Então fiz as duas. Obrigado pela correção.
+
+Desde ja agradeço!
+
+
+Atenciosamente: Gabryel Fernandes
